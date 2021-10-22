@@ -1,0 +1,10 @@
+{
+  "name": "Eyuel Solomon",
+  "short_name": "Eyuel Solomon",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f8d214",
+  "lang": "en"
+}
